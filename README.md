@@ -1,3 +1,7 @@
+> **本仓库处于归档/只读状态，已不再进行功能开发或维护。**
+> 
+> **推荐更现代的方案：[v2rayA](https://github.com/v2rayA/v2rayA)**
+
 # v2sub
 
 Go 编写的用于 linux 下订阅并简单配置 [v2ray](https://github.com/v2ray/v2ray-core) 的命令行工具。
